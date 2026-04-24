@@ -61,8 +61,8 @@ This repository documents my **30-day journey** learning [Manim](https://www.man
 
 | Day | Project | Concepts | Status |
 |-----|---------|----------|--------|
-| 22 | General Relativity | Spacetime curvature, 3D | 🚧 In Progress |
-| 23 | Machine Learning Viz | Neural networks | ⏳ Up Next |
+| 22 | General Relativity | Spacetime curvature, 3D |✅ |
+| 23 | Machine Learning Viz | Neural networks | ✅ |
 | 24 | Fractals (Mandelbrot) | Infinite complexity | ⏳ |
 | 25 | Fluid Dynamics | Real-world physics | ⏳ |
 | 26 | Cryptography (RSA) | Encryption visualization | ⏳ |
