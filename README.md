@@ -92,3 +92,66 @@ This repository documents my **30-day journey** learning [Manim](https://www.man
 - ✅ Quantum Mechanics (Wave Functions)
 - ✅ General Relativity (Spacetime Curvature)
 - ✅ Wave Physics (Interference, Superposition)
+
+
+# 🎯 150-Project Manim Journey Progress
+
+**Started:** [Today's Date]
+**Goal:** Complete 150 real-world Manim projects
+**Current Streak:** 32+ Days
+
+---
+
+## ✈️ Aircraft Design (3/30)
+
+### Beginner (3/10)
+- [x] Day 1: Draw an Airfoil Shape ✅
+- [x] Day 2: Label Wing Anatomy ✅
+- [x] Day 3: Animate Incoming Airflow ✅
+- [ ] Day 4: Split Flow Above and Below
+- [ ] Day 5: Color-Code Pressure Zones
+- [ ] Day 6: Angle of Attack Rotation
+- [ ] Day 7: Show Lift Force Arrow
+- [ ] Day 8: Bernoulli Equation Display
+- [ ] Day 9: Compare Flat vs Curved Wing
+- [ ] Day 10: Speed Bar Chart: Top vs Bottom
+
+### Intermediate (0/10)
+[Remaining projects...]
+
+### Advanced (0/10)
+[Remaining projects...]
+
+---
+
+## 🌦️ Weather Prediction (0/30)
+[Pending...]
+
+---
+
+## 🩸 Medical (0/30)
+[Pending...]
+
+---
+
+## 🎮 Gaming (0/30)
+[Pending...]
+
+---
+
+## 🌊 Oceanography (0/30)
+[Pending...]
+
+---
+
+## 🏆 Milestones
+
+- [x] 1 Project Complete ✅
+- [x] 2 Projects Complete ✅
+- [x] 3 Projects Complete ✅
+- [ ] 25 Projects Complete
+- [ ] 50 Projects Complete
+- [ ] 75 Projects Complete
+- [ ] 100 Projects Complete
+- [ ] 125 Projects Complete
+- [ ] **150 Projects Complete!** 🎉
